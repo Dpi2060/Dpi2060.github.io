@@ -1,6 +1,5 @@
 ---
 title: "Digital Literacy Narrative"
-excerpt: "Page not found. Your pixels are in another canvas."
 author_profile: false
 permalink: /dnl/
 ---
