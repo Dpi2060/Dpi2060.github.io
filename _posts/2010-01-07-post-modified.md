@@ -8,8 +8,8 @@ tags:
   - readability
   - standard
 ---
-**Guide**
-The Cultural Heritage By the Numbers is an assignment in one step. It builds upon the work we did in class on September 12 and 14 using the Jupyter notebooks in posit.cloud.
+**Guide:**
+>The Cultural Heritage By the Numbers is an assignment in one step. It builds upon the work we did in class on September 12 and 14 using the Jupyter notebooks in posit.cloud.
 
 This assignment can be done alone or in pairs. If it is done in pairs, please compose one markdown file which you place in both student sites.
 
