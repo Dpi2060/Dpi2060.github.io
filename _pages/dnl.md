@@ -1,7 +1,7 @@
 ---
 title: "Digital Literacy Narrative"
 author_profile: false
-permalink: /dnl/
+permalink: /dln/
 ---
 ## First Excersise
 
