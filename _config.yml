@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Dori Ilosvai"
-  avatar : "/assets/images/github picture.jpeg"
+  avatar : "/assets/images/githubPicture.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
