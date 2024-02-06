@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Dori Ilosvai"
   avatar : "/assets/images/githubPicture.jpg"
-  bio    : "Hi! Thank you for wisiting my website. I wish you a great day! Even if you did not visit my website. But you should. I think. :smile:"
+  bio    : "Hi! Thank you for wisiting my website. I wish you a great day! Even if you did not visit my website. :sun:"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
