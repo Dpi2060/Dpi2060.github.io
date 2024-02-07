@@ -7,7 +7,17 @@ permalink: /dln/
 
 > I am currently studying at NYUAD Film and New Media and Theatre. In my final Semester I embarked on a transformative journey by enrolling in an introductory course in digital humanities. I am here to  explore digital literacy, learn a new practical skill as I have not yet obtained any knwolwenge  within the field of coding and even borader terms within the field of digital humanities.
 
-Before immersing myself in the world of digital humanities, we had already developed our own strategies for navigating the digital landscape in both daily life and academics. As a Film and New Media  major, I am not particularly well-versed in coding languages such as Python and Java, using them for content creation, software development, and data manipulation. My academic journey was definitely not marked by problem-solving, algorithm design, and collaborative coding through platforms like GitHub. But I am excited to learn.
+Before immersing myself in the world of digital humanities, we had developed our own strategies for navigating the digital landscape in both daily life and academics. As a Film and New Media  major, I am not particularly well-versed in coding languages such as Python and Java, using them for content creation, software development, and data manipulation. My academic journey was definitely not marked by problem-solving, algorithm design, and collaborative coding through platforms like GitHub. But I am excited to learn.
+
+My first steps included getting to know the Github website and experiment with personalizing my pages thorugh using a cheatsheet the professor provided. Here is an example:
+
+---
+### **EXAMPLE {#custom-id}**
+
+![Adding Heading ID](collage1.jpg)
+![Adding Heading ID](collage2.jpg)
+
+
 
 My peers from Interactive Media, Environmental Studies, Business and Marketing, Literature, and Creative Writing have their own digital toolkits and they are very kind to help me when I (often) need it. Interactive Media students excell in user-centered design that they do so fast and almost like second nature and interactive storytelling, often utilizing software like Adobe Creative Suite. Environmental Studies majors leverage data analysis software for environmental research, while Business and Marketing students hone their skills in data analytics platforms for market analysis. Students in Literature and Creative Writing dive deep into research databases to fuel their literary and artistic pursuits.
 
@@ -24,3 +34,4 @@ Digital humanities is broadening our horizons, offering fresh perspectives on ou
 Looking ahead, we are excited to continue our exploration of new ways of thinking and working. We aim to cultivate a holistic approach to education that recognizes the value of interdisciplinary thinking in a digitally driven world. We envision a future where collaboration between artists, scientists, scholars, and creators becomes the norm, fostering innovation and pushing the boundaries of our fields.
 ### Conclusion {#custom-id}
 In conclusion, my journey through digital humanities hopefully will be a transformative one. I would like to leanr basic vocabulary to computational language that is to me yet quite honestly is forgein. I would like to know how to make a website confidentaly, solely relaying on a coding language and have a more diverse understanign of the data is. I am also excited to find my confidence to get more creative with these new skills to and be able to use it in my artmaking process at some point. 
+
