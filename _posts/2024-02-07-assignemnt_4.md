@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "*Assignment 1*"
 categories:
   - Blog
 tags:
