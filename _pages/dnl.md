@@ -12,7 +12,7 @@ Before immersing myself in the world of digital humanities, we had developed our
 My first steps included getting to know the Github website and experiment with personalizing my pages thorugh using a cheatsheet the professor provided. Here is an example:
 
 ---
-### **EXAMPLE {#custom-id}**
+### EXAMPLE {#custom-id}
 
 ![Adding Heading ID](collage1.jpg)
 ![Adding Heading ID](collage2.jpg)
