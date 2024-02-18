@@ -7,62 +7,29 @@ tags:
   - notice
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+>Before delving into some of my insights into metadata obtainable from the Harvard Art Museum API, I would like to emphasize that due to oversight or inherent biases, the records in the archive are subject to mislabeling or being not labeled at all. Due to this, all of the findings in this entry should be treated with consideration when coming to conclusions or speculations on the data found in Harvad Art Museum’s API repository.
 
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
+# Part 1
+Roaming around the Harvad Art Museum’s official website I found myself drawn to the aesthetics of some of the artworks such as Charles-Marie Dulac’s [Landscape, Remarque: Pansies](https://harvardartmuseums.org/collections/object/271802?position=271802) or Hendrick Goltzius’ [Landscape with a Farmhouse ](https://harvardartmuseums.org/collections/object/55029?position=55029) *Yes, I like landscapes.*
+The website made it easy to understand where these pieces originate from when they were welcomed into the museums’s collection yet the ways in which these objects were organized felt fairly randomized and I could not see how the pieces relate to oneother: based on factors such as accession time, culture, creator, or curator: to comprehend the pieces within a collection. Although it is possible to search by the filter on the website, the cvs file seems to give me a more structured list right away of the subjects categorizing them based on the culture of origin and even period. This layout I found to be more helpful in gaining a sense of what kind of art the museum is interested in curating, what cultures, and to what extent it aims to represent them in its galleries. 
 
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
-{: .notice}
+## Part 2
+Delving deeper into the cultural depiction of the museum, the cvs file also discloses the number of objects listed under each culture. It seems ‘American’ objects dominate the collection while other cultures such as Aksumite, Ubaid, and Yemen have only one object available. The list further suggests that countries like Germany, France, Italy, and England also have a significant abundance of objects compared to the rest of the countries which seems to reflect historical biases in art collecting, Eurocentrism, and the influence of Western cultural hegemony in the collection priorities of The Harvard Art MuseumWestern. It can also suggest a lack of historical availability of artifacts or gaps in research of these cultures like Ubaid which can easily be a consequence of my prior argument: it becomes difficult to restore objects from cultures that have historically not been prioritized for preservation as other more ‘prevailing’ cultures’ artifacts which then continue to perpetuate the issues with representation in Western institutions and their visious circles. Consequently, even if there is now  an  interest in diversifying a museum’s collection with previously undervalued artifacts, there are inherent limitations to this process.
+In contrast to the website, the API can also disclose how often each object is viewed by visitors. I noticed, however, that it is only able to provide a limited portion out of all the subjects available from a certain culture. I decided to use the second part of the notebook to investigate this question on a bigger and perhaps more accurate scale. During this process, I became  interested in looking into what might be the website’s most viewed artifact altogether. Using the second part of the notebook, I was able to find a Dutch portrait that has notably high numbers of views, 51660 to be exact. According to the API this architect, the Self-Portrait Dedicated to Paul Gauguin by Vincent Van Gogh, might be the most viewed object on the website 
+[Self-Portrait Dedicated to Paul Gauguin](https://harvardartmuseums.org/collections/object/299843?position=299843)
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--primary}
+This was not greatly surprising as Van Gogh’s art pieces continued to attract audiences to various parts of the world such as the famous The Starry Night in Museum of Modern Art or La Méridienne at Musée d'Orsay. Moreover, Dutch Golden Age art is often linked to its iconic painters such as Rembrandt van Rijn or Jan Vermeer therefore it is not too much of a surprise to see the most interest within the realms of Dutch art to be towards a medium that is already widely appreciated. This sparked my interest to look into the least viewed object within the Dutch selection of HAM. The Toy Teabowl and Saucer seemed to have no previous views on the website along with several other untitled artifacts: [The Toy Teabowl and Saucer](https://harvardartmuseums.org/collections/object/187615?position=187615)
 
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--info}
+Vessel in this case refers to a hollow container for liquids made of silver. I found it interesting that vessel can  also refer to a large boat or ship in the context of a coastal country and its historic maritime activities and extensive network of waterways for trading and prime access to the North Sea. This could be an interesting association with the word when thinking about how these artifacts wandered to such a distant destiantion from their homeland. Especially, it becomes interesting when thinking about how certain nations have had the privilege to trade with their cultural treasures and benefit from its value firsthand while other countries are to this day struggling to retrieve architecture that was later “discovered”  by European colonies and taken to be preserved and displayed as treasures of their own. This brings up an important conversation to define and distinguish matters of aiming for diverse representation as opposed to claiming ownership and accreditation over other cultures’values. How can hegemonic institutions strive for a diverse representation of  artifacts and yet treat those objects of foreign backgrounds with respect and clear accreditation? I think this is always an important question to keep in mind when wandering through an exhibition space.
 
-**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--warning}
+### Part 3
+Coming from Hungary, I was interested in looking into how my country is seen through the contemporary gaze of the HAM museum. I was struck to see that they have included Austro-Hungarian empire’s collection and motivated me to compare what these two categories entail in relation to each other. In addition to this list, I choose my third country of comparison to be the Ottoman empire due to its geographical proximity to the Austro-Huangrian Empire and its history of effective destruction Hungarian Monarchy  in 1526  which paved a way for Hasburg and Turkish domination in Hungary and the Balkan for the coming centuries. 
 
-**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--danger}
 
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
-{: .notice--success}
+Although the API only recognized a fragment of the object from each culture, the proportion between the three cultures remain similar. According to the chart, Ottoman  objects  dominate the collection compared to the Austro-Hungarian and Hungarian supply in the Museum. I suspect this is due to the Ottoman Empire’s historical legacy being one of the largest and longest-lasting empires in history, encompassing territories across Europe, Asia, and Africa that are now in many ways remain influence by its rich islamic heritage. In constrasrt, the Austro-Hunagrian Empire has a shorter lifespan and more limited geographical scope primarily within Central and Eastern Europe which are significantly less represented areas in a western institution as such as Hungary.
 
-Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
+  ==The chart== predicted on the division by accession year, supports my initial observation about the proportion. In 1972 the museum received all its objects for its Austro-Hungarian collection altogether. They must have been from the same donor as all the artifacts are coins referencing the Habsburg monarchy’s currency the taller coin .This date is fairly close to its hundred anniversary of its formation but the speculation could aslo lead to think that a a doner might have passed or decided to bequeathed it to the museum's care. Looking at the Hungarian collection, mostly work by László Medgyes’s and also László Moholy-Nagy is presented who emmigrated to the U.S. There were several bg waves of emigration form Hungary to the U.S before the world war and later the impedign dual occupation of the country by Nazis and Soviets. This might become a major reason how hungarians became ambassadors for their own art became to be represented in foreign conetxts.
+ However, by far the biggest interest was for Ottoman artifacts in these list of comparison, especially there was a great push for such art in 1985. It is hard to speculate why that might be as only 20 precent of the entire collection is taken into account in this chart. The 80s witnessed carious armed conflict in region foremly under Ottoman rule which might have directed moe atention or need for preservation of such artifacts or simply bigger collectors have decided to donate their collection. Looking at the word clouds, it is interesting how manuscripts are mostly referenced within this small proportion of the Ottoman collection. Islamic Manuscripts and calligrahy that beutifully illuminated Quarans and literly works are undoubtably cotinue to serves as invaluable repostories of Islamic heritage within and beyond the region such as in contemproary westen collection like HAM.
 
-```html
-{% raw %}{% capture notice-2 %}
-#### New Site Features
+  >In conclusion, there is so much to yet speculate about how these cultures came to be seen in this particular Amercian museum and to what proportion, These questions continue to rase issues arround  how the world is divide up, what becomes prioritized of preservation and representation. I was really intetereted in learning how API became an invaluable tool to decipher these inherent biases of the collection and start seeing the pieces of arhitacts as a part of a whole and in context with each other. These observations are not merely to serve as critique but to hopefully become a guide for improvement in recognizing such biases of cultural representation and power dynamics.
 
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}{% endraw %}
-
-<div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
-```
-
-{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}
-
-<div class="notice">
-  {{ notice-2 | markdownify }}
-</div>
-
-Or you could skip the capture and stick with straight HTML.
-
-```html
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
-```
-
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
