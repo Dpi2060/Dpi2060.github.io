@@ -25,11 +25,11 @@ Vessel in this case refers to a hollow container for liquids made of silver. I f
 ### Part 3
 Coming from Hungary, I was interested in looking into how my country is seen through the contemporary gaze of the HAM museum. I was struck to see that they have included Austro-Hungarian empire’s collection and motivated me to compare what these two categories entail in relation to each other. In addition to this list, I choose my third country of comparison to be the Ottoman empire due to its geographical proximity to the Austro-Huangrian Empire and its history of effective destruction Hungarian Monarchy  in 1526  which paved a way for Hasburg and Turkish domination in Hungary and the Balkan for the coming centuries. 
 
-![Comparasion based on object](/assets/images/Chart1)
+![Comparasion based on object](/assets/images/Chart1.png)
 
 Although the API only recognized a fragment of the object from each culture, the proportion between the three cultures remain similar. According to the chart, Ottoman  objects  dominate the collection compared to the Austro-Hungarian and Hungarian supply in the Museum. I suspect this is due to the Ottoman Empire’s historical legacy being one of the largest and longest-lasting empires in history, encompassing territories across Europe, Asia, and Africa that are now in many ways remain influence by its rich islamic heritage. In constrasrt, the Austro-Hunagrian Empire has a shorter lifespan and more limited geographical scope primarily within Central and Eastern Europe which are significantly less represented areas in a western institution as such as Hungary.
 
-![Comparasion based on accession year](/assets/images/Chart2)
+![Comparasion based on accession year](/assets/images/Chart2.png)
 
 
 The chart predicted on the division by accession year, supports my initial observation about the proportion. In 1972 the museum received all its objects for its Austro-Hungarian collection altogether. They must have been from the same donor as all the artifacts are coins referencing the Habsburg monarchy’s currency the taller coin .This date is fairly close to its hundred anniversary of its formation but the speculation could aslo lead to think that a a doner might have passed or decided to bequeathed it to the museum's care. Looking at the Hungarian collection, mostly work by László Medgyes’s and also László Moholy-Nagy is presented who emmigrated to the U.S. There were several bg waves of emigration form Hungary to the U.S before the world war and later the impedign dual occupation of the country by Nazis and Soviets. This might become a major reason how hungarians became ambassadors for their own art became to be represented in foreign conetxts.
@@ -37,7 +37,7 @@ The chart predicted on the division by accession year, supports my initial obser
 
 However, by far the biggest interest was for Ottoman artifacts in these list of comparison, especially there was a great push for such art in 1985. It is hard to speculate why that might be as only 20 precent of the entire collection is taken into account in this chart. The 80s witnessed carious armed conflict in region foremly under Ottoman rule which might have directed moe atention or need for preservation of such artifacts or simply bigger collectors have decided to donate their collection.
 
-![Ottoman Word Cloud ](/assets/images/wordcloud1)
+![Ottoman Word Cloud ](/assets/images/wordcloud1.png)
 
 
  Looking at the word clouds, it is interesting how manuscripts are mostly referenced within this small proportion of the Ottoman collection. Islamic Manuscripts and calligrahy that beutifully illuminated Quarans and literly works are undoubtably cotinue to serves as invaluable repostories of Islamic heritage within and beyond the region such as in contemproary westen collection like HAM.
