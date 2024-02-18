@@ -14,8 +14,8 @@ My first steps included getting to know the Github website and experiment with p
 ---
 ### EXAMPLE {#custom-id}
 
-![Adding Heading ID](../_assets/images/collage1.jpg)
-![Adding Heading ID](../_assets/images/collage2.jpg)
+![Adding Heading ID](/../_assets/images/collage1.jpg)
+![Adding Heading ID](/../_assets/images/collage2.jpg)
 
 
 
