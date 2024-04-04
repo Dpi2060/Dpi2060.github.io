@@ -1,13 +1,13 @@
 ---
 title:  "*Assignment 2*"
-last_modified_at: 2024-02-09T16:20:02-05:00
+# last_modified_at: 2024-02-09T16:20:02-05:00
 categories:
   - Blog
 tags:
   - Post Formats
   - readability
   - standard
-  toc: true
+toc: true
 toc_label: "Spring 2024 Schedule"
 toc_sticky: true
 toc_icon: "folder-grid" #"book"
