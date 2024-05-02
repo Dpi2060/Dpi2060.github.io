@@ -8,25 +8,61 @@ tags:
   - readability
   - standard
 ---
+ 
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+# Introduction
+Roaming around the Brooklyn City and Business Directory across different decades has been an interesting discovery of the history of New York City and its spatial and demographic past.In these directories, one can find a list of names of citizens of New York City, and Brooklyn in alphabetic order matched with their respective professions and street address. When selecting my data set for this exercise, I wanted to specifically look at patterns of German immigration by scrutinizing names of German origin across three different directories. I choose directories across roughly three decades between 1869, 1879-1880, and 1903. 
 
-Mrs. Darling first heard of Peter when she was tidying up her children's minds. It is the nightly custom of every good mother after her children are asleep to rummage in their minds and put things straight for next morning, repacking into their proper places the many articles that have wandered during the day.
+# Origin of ‘Müller’ — Context for the Exercise
 
-<!--more-->
+ Even though I saw many other names of this origin in that list,  I picked the German name, Müller for this exercise. I chose this name as I found the subtle traces of assimilation apparent in the phonetic alterations of this specific name interesting. The surname in its origin is written as  ‘Müller' **(mələ˞)**, which is an occupational name for miller. According to Wikipedia the name holds the title of the most prevalent family surname in Germany, Switzerland, and the French départements of Bas-Rhin and Moselle (spelled Müller, Mueller, or Muller), and ranks as the fifth most common surname in Austria. It is also known as a Jewish (Ashkenazic; also Müller) which became very interesting when looking at Jewish diaspora history within the US. During the latter part of the nineteenth century and the initial years of the twentieth century, a significant wave of Jewish migration occurred from Eastern and Southern Europe. Within this timeframe, 2.8 million European Jews relocated to the United States, the vast majority (94%) originating from Eastern Europe due to various ongoing pogroms activities.
+The period spanning 1820 to 1880 is widely regarded as the era of German Jewish immigration to the United States. Over these sixty years, the majority of the 150,000 Jewish immigrants who arrived in the United States originated from regions that, by 1871, would become part of a unified Germany. Additionally, immigrants came from various areas in Central and Eastern Europe that later in the century adopted either the German language or aspects of German culture. During this immigration wave the name *Müller* in the US was often changed to Miller or appears as *Muller* or even *Mueller*. In my set of data, I looked at variations between Muller and Mueller but I also saw small numbers of Miller ,in some of the directories.
+Only between 1879-1880, I could find significant amounts of ‘Muellers’ while in the directories of 1969 and 1907, only *Mullers* were around in significant numbers in respective directories. This makes me think about how assimilation processes regarding name changes shift back and forth within these periods. Yet *Muller* remains the most popular version of ‘Müller’ during these periods across the three selected directories.
 
-This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also be applied:
 
-```yaml
-excerpt_separator: "<!--more-->"
-```
+# The Process
 
-If you could keep awake (but of course you can't) you would see your own mother doing this, and you would find it very interesting to watch her. It is quite like tidying up drawers. You would see her on her knees, I expect, lingering humorously over some of your contents, wondering where on earth you had picked this thing up, making discoveries sweet and not so sweet, pressing this to her cheek as if it were as nice as a kitten, and hurriedly stowing that out of sight. When you wake in the morning, the naughtiness and evil passions with which you went to bed have been folded up small and placed at the bottom of your mind and on the top, beautifully aired, are spread out your prettier thoughts, ready for you to put on.
+ [link to 1869 data](https://docs.google.com/spreadsheets/d/1G46YVuAg-PThz3rV7r56odQXYQdZ2Tx1Qbf6N_yHSUk/edit?usp=sharing)
 
-I don't know whether you have ever seen a map of a person's mind. Doctors sometimes draw maps of other parts of you, and your own map can become intensely interesting, but catch them trying to draw a map of a child's mind, which is not only confused, but keeps going round all the time. There are zigzag lines on it, just like your temperature on a card, and these are probably roads in the island, for the Neverland is always more or less an island, with astonishing splashes of colour here and there, and coral reefs and rakish-looking craft in the offing, and savages and lonely lairs, and gnomes who are mostly tailors, and caves through which a river runs, and princes with six elder brothers, and a hut fast going to decay, and one very small old lady with a hooked nose. It would be an easy map if that were all, but there is also first day at school, religion, fathers, the round pond, needle-work, murders, hangings, verbs that take the dative, chocolate pudding day, getting into braces, say ninety-nine, three-pence for pulling out your tooth yourself, and so on, and either these are part of the island or they are another map showing through, and it is all rather confusing, especially as nothing will stand still.
+ [link to 1879-1880 data](https://docs.google.com/spreadsheets/d/1Igv_bYtqKkk1ubZkBp5CbYMSgAuTd7-JNL2cGMt0o4s/edit?usp=sharing)
 
-Of course the Neverlands vary a good deal. John's, for instance, had a lagoon with flamingoes flying over it at which John was shooting, while Michael, who was very small, had a flamingo with lagoons flying over it. John lived in a boat turned upside down on the sands, Michael in a wigwam, Wendy in a house of leaves deftly sewn together. John had no friends, Michael had friends at night, Wendy had a pet wolf forsaken by its parents, but on the whole the Neverlands have a family resemblance, and if they stood still in a row you could say of them that they have each other's nose, and so forth. On these magic shores children at play are for ever beaching their coracles [simple boat]. We too have been there; we can still hear the sound of the surf, though we shall land no more.
+ [link to 1903 data](https://docs.google.com/spreadsheets/d/1F1RMvxRfU8cVRFnuHneEhjknxeA9jHkJ1a_R5QkeyE8/edit?usp=sharing)
 
-Of all delectable islands the Neverland is the snuggest and most compact, not large and sprawly, you know, with tedious distances between one adventure and another, but nicely crammed. When you play at it by day with the chairs and table-cloth, it is not in the least alarming, but in the two minutes before you go to sleep it becomes very real. That is why there are night-lights.
+Once I selected random chunks of ‘Mullers’ and ‘Muellers’ from the three different directories and collected around 130 names with professions and addresses I used chatGPT to process the data and help me organize it into rows and columns. As the source from archive.org had an OCR  layer on it, the copy of the directory could be recognized as text and I was able to highlight and copy information into ChatGPT. It was interesting to see what got misread (such as h was constantly misread for ‘li’) perhaps because of the quality of the image or the print as well as the age of the source. I created a prompt for **ChatGPT** that requested the provided data to be organized in columns according to name, profession, and address. I also asked it to not self-generated information. At first, **ChatGPT** struggled to recognize some of the addresses I provided and left those spaces empty. I went back and redefined my prompt giving an example of the format of the address. Through such a process, **ChatGPT** was able to fill most of the rows with information loyal to the provided source.
+After this, I placed the information into a Google sheet that allowed me to look at my data in a more organized manner and be able to look at my data in relation to each other across the different directories.
+As a part of this exercise, I wanted to create a map to locate some of these individuals based on their provided addresses. I created three different sheets for the three different directories which allowed me to see the maps in conversation with each other and allowed me to see the domestic shifts over time. I used Geocode by Awsome Table which gave me coordination in latitudes and longitudes based on which the following images were created:
 
-Occasionally in her travels through her children's minds Mrs. Darling found things she could not understand, and of these quite the most perplexing was the word Peter. She knew of no Peter, and yet he was here and there in John and Michael's minds, while Wendy's began to be scrawled all over with him. The name stood out in bolder letters than any of the other words, and as Mrs. Darling gazed she felt that it had an oddly cocky appearance.
+1869
+
+<img src="/assets/{Screenshot 2024-05-02 at 7.50.13}.png" style="zoom:50%"/>
+
+
+1879-1880
+
+<img src="/assets/{Screenshot 2024-05-02 at 7.53.00}.png" style="zoom:50%"/>
+
+1903
+
+<img src="/assets/{Screenshot 2024-05-02 at 7.54.47}.png" style="zoom:50%"/>
+
+<img src="/assets/{Screenshot 2024-05-02 at 7.55.01}.png" style="zoom:50%"/>
+
+
+
+
+I had to adjust some of the addresses manually as many of these addresses could not be identified, such instead of the ‘av’ needed and ‘ave’ indicator for avenues or streets needed an additional ‘ST’ to be recognized but some places might not exist under the same name as they used to. 
+
+<img src="/assets/{Screenshot 2024-05-02 at 17.50.07}.png" style="zoom:50%"/>
+
+Still, I found the result quite impressive given that some of these addresses are older than a century and could still be identified on a modern map. New York definitely has been a highly infrastructural metropolis for centuries hence is the most populous city in the United States. Although there were some errors in identifying some of the addresses and they were confused for other locations within the United States(Colorado), even within the world (such as one random location in India), we can see a clear pattern of demographic shift within the selected  Mullers from 1869 to 1903. 
+
+<img src="/assets/{Screenshot 2024-05-02 at 13.20.45}.png" style="zoom:50%"/>
+
+Most locations were only within and around Brooklyn on the first map quiet constantly and in proximity to one another However, in the map of 1903 slowly see a migration toward mid-town and even near the central park.  According to my understanding of the current demographics of New York City, some of the more expensive apartment complexes reside in these areas. Thus, looking at these traces of migrations over time within these few immigrant households, some economic, maybe even class shifts are to be discerned/assumed.
+
+Talking about these shifts across the decades, it was also interesting to look at how the variety of professions increased over time. Looking at the 1869 directory we mostly see tailor, milkman, grocer, dressmaker, and such trading professions highlighting manual labor and craftsmanship as we move to 1903 traveling three decades we see a much bigger variety of professions including dentist, musician, machinist, the photographer along with some of these ‘traditional’ professions and perhaps family business that have remained over time such as the tailor, grocer, butcher, etc.
+I found it interesting that in the list 1903 for some of the women on the list’ widow’ as a profession appeared quite often, much more often than in previous directories for these particular names. Looking at it from today’s standard, it is interesting to note how the profession of women was so strictly tight to their husbands’ state of profession or even existence. I wonder why it was important for them to note widowed instead of noting their profession or the lack thereof, perhaps labeling them as ‘housewives’ as of the traditions at the time. In some Eastern European Countries, for example, the label ‘widow’ was utilized to stigmatize and prevent additional marriages for widowed women in particular. So this data makes me wonder if such a label has a similar function.
+
+# Conclusions:
+
+This exercise gave me interesting insights and clues into the dynamic interplay of German migration patterns, assimilation, and the changing occupational landscapes in New York City during the late 19th and early 20th centuries through the lens of the surname *"Müller"*. Despite encountering certain limitations in the information processing capabilities of **ChatGPT** and the geocoding functionality provided by Awesome Table, it was possible to make some assumptions based on the migration pattern of the German communities in New York City within the selected time frame.  This assignment really left me wondering if a bigger data set could give us a more accurate scope of immigration patterns.  What quantity of data would constitute a "meaningful" representation for such studies? Does the concept of “sufficiency” and “accuracy” really exist in these contexts? As an alternative, I  would also be interested in focusing on a particular individual and their family history to gain a more precise insight into their particular immigration and dwelling processes in New York City.
