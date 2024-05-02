@@ -7,9 +7,12 @@ tags:
   - Post Formats
   - readability
   - standard
----
- 
 
+ toc: true
+toc_label: "Spring 2024 Schedule"
+toc_sticky: true
+toc_icon: "folder-grid" #"book"
+---
 # Introduction
 Roaming around the Brooklyn City and Business Directory across different decades has been an interesting discovery of the history of New York City and its spatial and demographic past.In these directories, one can find a list of names of citizens of New York City, and Brooklyn in alphabetic order matched with their respective professions and street address. When selecting my data set for this exercise, I wanted to specifically look at patterns of German immigration by scrutinizing names of German origin across three different directories. I choose directories across roughly three decades between 1869, 1879-1880, and 1903. 
 
@@ -66,3 +69,10 @@ I found it interesting that in the list 1903 for some of the women on the list�
 # Conclusions:
 
 This exercise gave me interesting insights and clues into the dynamic interplay of German migration patterns, assimilation, and the changing occupational landscapes in New York City during the late 19th and early 20th centuries through the lens of the surname *"Müller"*. Despite encountering certain limitations in the information processing capabilities of **ChatGPT** and the geocoding functionality provided by Awesome Table, it was possible to make some assumptions based on the migration pattern of the German communities in New York City within the selected time frame.  This assignment really left me wondering if a bigger data set could give us a more accurate scope of immigration patterns.  What quantity of data would constitute a "meaningful" representation for such studies? Does the concept of “sufficiency” and “accuracy” really exist in these contexts? As an alternative, I  would also be interested in focusing on a particular individual and their family history to gain a more precise insight into their particular immigration and dwelling processes in New York City.
+
+### *References*
+ {: .notice--info}
+
+Lewin, Rhoda G. (1979). "Stereotype and reality in the Jewish immigrant experience in Minneapolis" (PDF). Minnesota History. 46 (7). Minnesota Historical Society: 259. Retrieved January 20, 2017.
+
+[Diner, H. R. (n.d.). German immigrant period in the United States. Jewish Women’s Archive. ](https://docs.google.com/spreadsheets/d/1G46YVuAg-PThz3rV7r56odQXYQdZ2Tx1Qbf6N_yHSUk/edit?usp=sharing)https://jwa.org/encyclopedia/article/german-immigrant-period-in-united-states 
