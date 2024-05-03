@@ -37,29 +37,31 @@ As a part of this exercise, I wanted to create a map to locate some of these ind
 
 1869
 
-![1869](/assets/images/Screenshot 2024-05-02 at 7.50.13.png)
+![1869](/assets/images/pic1.png)
 
 
 1879-1880
 
-<img src="/assets/{Screenshot 2024-05-02 at 7.53.00}.png" style="zoom:50%"/>
+![1879-1880](/assets/images/pic2.png)
 
 1903
 
-<img src="/assets/{Screenshot 2024-05-02 at 7.54.47}.png" style="zoom:50%"/>
+![1903](/assets/images/pic3.png)
 
-<img src="/assets/{Screenshot 2024-05-02 at 7.55.01}.png" style="zoom:50%"/>
+![1903](/assets/images/pic4.png)
+
 
 
 
 
 I had to adjust some of the addresses manually as many of these addresses could not be identified, such instead of the ‘av’ needed and ‘ave’ indicator for avenues or streets needed an additional ‘ST’ to be recognized but some places might not exist under the same name as they used to. 
 
-<img src="/assets/{Screenshot 2024-05-02 at 17.50.07}.png" style="zoom:50%"/>
+![error](/assets/images/pic.png)
 
 Still, I found the result quite impressive given that some of these addresses are older than a century and could still be identified on a modern map. New York definitely has been a highly infrastructural metropolis for centuries hence is the most populous city in the United States. Although there were some errors in identifying some of the addresses and they were confused for other locations within the United States(Colorado), even within the world (such as one random location in India), we can see a clear pattern of demographic shift within the selected  Mullers from 1869 to 1903. 
 
-<img src="/assets/{Screenshot 2024-05-02 at 13.20.45}.png" style="zoom:50%"/>
+![map error](/assets/images/ppp.png)
+
 
 Most locations were only within and around Brooklyn on the first map quiet constantly and in proximity to one another However, in the map of 1903 slowly see a migration toward mid-town and even near the central park.  According to my understanding of the current demographics of New York City, some of the more expensive apartment complexes reside in these areas. Thus, looking at these traces of migrations over time within these few immigrant households, some economic, maybe even class shifts are to be discerned/assumed.
 
