@@ -1,13 +1,12 @@
 ---
 title: "*Assignment 3*"
-excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
   - Post Formats
   - readability
   - standard
- toc: true
+toc: true
 toc_label: "Spring 2024 Schedule"
 toc_sticky: true
 toc_icon: "folder-grid" #"book"
