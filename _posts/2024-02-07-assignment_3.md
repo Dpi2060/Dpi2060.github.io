@@ -7,12 +7,13 @@ tags:
   - Post Formats
   - readability
   - standard
-
  toc: true
 toc_label: "Spring 2024 Schedule"
 toc_sticky: true
 toc_icon: "folder-grid" #"book"
 ---
+
+
 # Introduction
 Roaming around the Brooklyn City and Business Directory across different decades has been an interesting discovery of the history of New York City and its spatial and demographic past.In these directories, one can find a list of names of citizens of New York City, and Brooklyn in alphabetic order matched with their respective professions and street address. When selecting my data set for this exercise, I wanted to specifically look at patterns of German immigration by scrutinizing names of German origin across three different directories. I choose directories across roughly three decades between 1869, 1879-1880, and 1903. 
 
