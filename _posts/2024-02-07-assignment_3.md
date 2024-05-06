@@ -78,3 +78,5 @@ This exercise gave me interesting insights and clues into the dynamic interplay 
 Lewin, Rhoda G. (1979). "Stereotype and reality in the Jewish immigrant experience in Minneapolis" (PDF). Minnesota History. 46 (7). Minnesota Historical Society: 259. Retrieved January 20, 2017.
 
 [Diner, H. R. (n.d.). German immigrant period in the United States. Jewish Women’s Archive. ](https://jwa.org/encyclopedia/article/german-immigrant-period-in-united-states)
+
+
