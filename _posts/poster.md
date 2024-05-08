@@ -1,11 +1,10 @@
 ---
-title: "*Assignment 1*"
+title: "*Poster*"
 categories:
   - Blog
 tags:
   - Post Formats
   - notice
-  
 ---
 
 Link to poster
